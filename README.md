@@ -1,4 +1,5 @@
 Othello for Android
+
 Source recovered from an old Eclipse ADT project, part of the Android resources and project metadata are missing.
 
 A small Othello/Reversi game written in Java for early Android devices.
